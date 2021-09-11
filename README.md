@@ -14,7 +14,7 @@ pip install pipenv
 
 - After you install pipenv, perform the following commands
 ```bash
-git clone https://github.com/sargam-poudel/pygame/
+git clone https://github.com/AgroKING/Pygame/
 ```
 - After you clone the repo, do the following commands
 ```bash
